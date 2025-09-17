@@ -1,1 +1,0 @@
-# TrueSyncAI-Telegram-Support-Bot
